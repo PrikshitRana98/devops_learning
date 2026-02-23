@@ -332,3 +332,6 @@ ubuntu@ip-172-31-34-171:~$: docker ps
 CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
 
 # now we will create the ubuntu image
+
+
+
